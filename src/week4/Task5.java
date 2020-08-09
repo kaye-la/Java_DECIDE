@@ -36,7 +36,7 @@ public class Task5 {
 
         for (int i = 0; i < arr.length; i++)
             retainSet.add(arr[i]);
-        //unionSet.retainAll(retainSet);
+        unionSet.retainAll(retainSet);
         return unionSet;
     }
 }

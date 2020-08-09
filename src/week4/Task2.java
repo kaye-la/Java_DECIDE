@@ -40,14 +40,4 @@ public class Task2 {
         System.out.println("LinkedList .get operation 100000times: " +
                 TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - then) + "ms");
     }
-
 }
-
-/*
-public static void main(String... ignored) throws InterruptedException {
-final long then = System.nanoTime();
-        TimeUnit.SECONDS.sleep(1);
-final long millis = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - then);
-        System.out.println("Slept for (ms): " + millis); // = something around 1000.
-        }
- */
