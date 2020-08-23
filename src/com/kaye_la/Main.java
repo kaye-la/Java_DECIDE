@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //TestWeek2.run();
         //TestWeek4.run();
-        TestWeek5.run();
+        //TestWeek5.run();
+        TestWeek6.run();
     }
 }

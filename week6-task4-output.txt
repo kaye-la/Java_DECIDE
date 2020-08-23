@@ -1,0 +1,16 @@
+IP: 105.228.102.96 Visit's number: 2 Popular day: THURSDAY Popular time: 3-4hrs.
+IP: 160.160.200.65 Visit's number: 4 Popular day: MONDAY Popular time: 1-2hrs.
+IP: 213.54.123.237 Visit's number: 2 Popular day: WEDNESDAY Popular time: 4-5hrs.
+IP: 149.19.181.58 Visit's number: 3 Popular day: WEDNESDAY Popular time: 4-5hrs.
+IP: 97.148.48.154 Visit's number: 3 Popular day: MONDAY Popular time: 0-1hrs.
+IP: 201.124.156.15 Visit's number: 2 Popular day: MONDAY Popular time: 19-20hrs.
+IP: 37.56.36.212 Visit's number: 3 Popular day: TUESDAY Popular time: 2-3hrs.
+IP: 54.148.169.198 Visit's number: 5 Popular day: SATURDAY Popular time: 21-22hrs.
+IP: 253.106.7.152 Visit's number: 2 Popular day: TUESDAY Popular time: 2-3hrs.
+IP: 42.105.87.229 Visit's number: 2 Popular day: THURSDAY Popular time: 14-15hrs.
+IP: 221.109.39.125 Visit's number: 4 Popular day: THURSDAY Popular time: 2-3hrs.
+IP: 28.193.105.181 Visit's number: 4 Popular day: SATURDAY Popular time: 1-2hrs.
+IP: 190.51.42.11 Visit's number: 4 Popular day: THURSDAY Popular time: 12-13hrs.
+IP: 72.238.112.150 Visit's number: 8 Popular day: SATURDAY Popular time: 16-17hrs.
+IP: 72.21.69.98 Visit's number: 2 Popular day: THURSDAY Popular time: 14-15hrs.
+Popular time in general: 4-5hrs.
